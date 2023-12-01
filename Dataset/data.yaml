@@ -1,0 +1,5 @@
+train: OID/Dataset/train
+val: OID/Dataset/validation
+
+nc: 15
+names: ['Apple', 'Banana', 'Coconut', 'Cucumber', 'Grape', 'Grapefruit', 'Lemon', 'Mango', 'Orange', 'Peach', 'Pear', 'Pineapple', 'Pomegranate', 'Strawberry', 'Watermelon']
